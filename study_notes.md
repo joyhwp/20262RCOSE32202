@@ -17,3 +17,5 @@ The OS saves and restores execution context.
 Virtual memory provides each process with an address space.
 ## Synchronization
 Mutexes help protect shared resources.
+## Inter-Process Communication
+Processes can communicate using pipes or shared memory.
