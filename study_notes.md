@@ -2,3 +2,7 @@
 
 This repository contains my personal study notes.
 Add initial study notes
+
+## Process
+A process is a program in execution.
+
