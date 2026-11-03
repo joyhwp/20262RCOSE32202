@@ -19,3 +19,5 @@ Virtual memory provides each process with an address space.
 Mutexes help protect shared resources.
 ## Inter-Process Communication
 Processes can communicate using pipes or shared memory.
+## Summary
+Operating systems manage processes, memory, and hardware resources.
