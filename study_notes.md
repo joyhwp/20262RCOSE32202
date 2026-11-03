@@ -5,6 +5,7 @@ Add initial study notes
 
 ## Process
 A process is a program in execution.
-
 ## Thread
 Threads share resources within a process.
+## System Call
+System calls provide an interface to kernel services.
