@@ -15,3 +15,5 @@ The scheduler selects which process runs next.
 The OS saves and restores execution context.
 ## Virtual Memory
 Virtual memory provides each process with an address space.
+## Synchronization
+Mutexes help protect shared resources.
